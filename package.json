@@ -1,0 +1,14 @@
+{
+  "name": "equinox-signer-upper",
+  "version": "1.0.0",
+  "description": "signup for equinox classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jerf",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
